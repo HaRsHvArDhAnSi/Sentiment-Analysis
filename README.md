@@ -1,2 +1,5 @@
-# Sentiment-Analysis
-📚 Welcome to Task 2 of Code Clause on GitHub! 🚀 This repository contains my implementation 🐍 of sentiment analysis using Python.
+📚 Welcome to Task 2 of Code Clause on GitHub! 🚀 This repository contains my implementation 🐍 of sentiment analysis using Python. I successfully completed the task by analyzing sentiment in text from the datasets 📂 "Reddit_Data.csv" and "Twitter_Data.csv". The code showcases advanced data preprocessing techniques 🧠 and TF-IDF text vectorization 📝. Through the utilization of a powerful Logistic Regression model 📈, I achieved accurate sentiment classification. This project highlights my proficiency in natural language processing and machine learning, demonstrating my ability to tackle real-world tasks effectively. Let's dive into the fascinating world of sentiment analysis together! 🌟💬
+
+Feel free to customize these passages further to add more personal touches, such as specific challenges you encountered or unique insights you gained during the project. Good luck with sharing your achievements! 🎉😊
+
+Dataset link (file size was too big) - https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset
