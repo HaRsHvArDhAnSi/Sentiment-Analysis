@@ -22,7 +22,7 @@ This project provides a practical implementation of sentiment analysis using Log
 
 #CodeClause #SentimentAnalysis #LogisticRegression #MachineLearning #Python
 
-Dataset link (file size was too big): Twitter and Reddit Sentiment Analysis Dataset
+Dataset link (file size was too big): [Twitter and Reddit Sentiment Analysis Dataset](https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset)
 
 Feel free to customize and modify the description further to highlight any additional details or techniques used in your project.
 
